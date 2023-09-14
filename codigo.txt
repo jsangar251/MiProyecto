@@ -1,2 +1,2 @@
-Console.WriteLine("Adios mundo cruel");
+Console.WriteLine("Adios mundo");
 
